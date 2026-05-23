@@ -40,6 +40,7 @@ This repository documents common production failure patterns to help engineers:
 
 # Categories
 
+<a id="application-patterns"></a>
 ## 🔵 Application Failure Patterns
 
 Failures caused by application behaviour, request handling, retries, queues, or distributed service interactions.
