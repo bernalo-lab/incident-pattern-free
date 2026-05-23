@@ -52,7 +52,7 @@ Failures caused by application behaviour, request handling, retries, queues, or 
 
 ---
 
-## 🟠 Business Logic & Workflow Failure Patterns
+## <a id="business-logic-patterns">🟠 Business Logic & Workflow Failure Patterns</a>
 
 Failures caused by transaction handling, workflow orchestration, async processing, or inconsistent business state.
 
@@ -64,7 +64,7 @@ Failures caused by transaction handling, workflow orchestration, async processin
 
 ---
 
-## 🟣 Capacity & Performance Failure Patterns
+## <a id="capacity-patterns">🟣 Capacity & Performance Failure Patterns</a>
 
 Failures caused by scaling limits, infrastructure saturation, memory pressure, or storage bottlenecks.
 
