@@ -118,4 +118,4 @@ autoscaler simulation testing
 
 ---
 
-<a href="../../categories/capacity/capacity.md">**<<Back**</a><a href="../../categories/capacity/capacity.md" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">**<<Back**</a>
+<a href="../../README.md#capacity-patterns" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">**<<Back**</a>
