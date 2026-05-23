@@ -130,4 +130,4 @@ As backlog grows, event processing delays increase and downstream services becom
 
 ---
 
-<a href="../../categories/application/application.md" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">**<<Back**</a>
+<a href="../../README.md#applications-patterns" style="min-width:260px; border:1px solid #e5e7eb; border-radius:8px; padding:12px; text-decoration:none;">**<<Back**</a>
